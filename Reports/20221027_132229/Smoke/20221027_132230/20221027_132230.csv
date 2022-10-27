@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 107.0.0.0,,,2022-10-27 13:22:41,2022-10-27 13:23:49,1m - 8.215s,FAILED
+,,,,,,,
+Test Cases/AutomationExercise/TC001 - Register User,Chrome 107.0.0.0,,,2022-10-27 13:23:43,2022-10-27 13:23:49,6.442s,FAILED
+openBrowser(url),Chrome 107.0.0.0,,,2022-10-27 13:23:43,2022-10-27 13:23:48,5.131s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-10-27 13:23:48,2022-10-27 13:23:48,0.149s,PASSED
+"verifyElementPresent(findTestObject(""TC001 Register User/Page_Automation Exercise/txt_Category""), 0)",Chrome 107.0.0.0,,,2022-10-27 13:23:48,2022-10-27 13:23:49,1.029s,FAILED
