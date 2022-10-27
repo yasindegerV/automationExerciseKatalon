@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.url)
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementVisible(findTestObject('TC002 - Objects/Page_Automation Exercise/txt_Category'))
 
 WebUI.click(findTestObject('TC002 - Objects/Page_Automation Exercise/btn_Signup  Login'))
