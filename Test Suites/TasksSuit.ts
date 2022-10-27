@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Smoke</name>
+   <name>TasksSuit</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>yasin.deger@virgosol.com;</mailRecipient>
    <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>415f2831-3d73-4749-ac5e-5e743e7446ec</testSuiteGuid>
+   <testSuiteGuid>0a554684-58c9-420e-b0b6-d5b3edf809c0</testSuiteGuid>
    <testCaseLink>
-      <guid>3e2b7a98-1b43-4ad9-af03-a61ef06760ad</guid>
+      <guid>2ba88f23-0912-4fa4-8b79-64e3d7d3d779</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/AutomationExercise/TC001 - Register User</testCaseId>

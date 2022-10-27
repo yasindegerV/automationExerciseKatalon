@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TasksSuit" time="81.954" tests="1" failures="0" errors="0">
+   <testsuite name="TasksSuit" tests="1" failures="0" errors="0" time="81.954" skipped="0" timestamp="2022-10-27 16:30:01" hostname="virgosol - localhost" id="Test Suites/TasksSuit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/virgosol/git/automationExerciseKatalonGit/Reports/20221027_162950/TasksSuit/20221027_162950"/>
+         <property name="logFiles" value="/Users/virgosol/git/automationExerciseKatalonGit/Reports/20221027_162950/TasksSuit/20221027_162950/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="virgosol - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="db65343b000daed452c8459e336e4771"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/AutomationExercise/TC001 - Register User" time="81.488" classname="Test Cases/AutomationExercise/TC001 - Register User" status="PASSED">
+         <system-out><![CDATA[2022-10-27 16:30:02 - [TEST_CASE][PASSED] - Test Cases/AutomationExercise/TC001 - Register User: Test Cases/AutomationExercise/TC001 - Register User
+
+2022-10-27 16:30:02 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'www.automationexercise.com'
+
+2022-10-27 16:30:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-27 16:30:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-27 16:30:22 - [MESSAGE][PASSED] - Browser is opened with url: 'www.automationexercise.com'
+
+2022-10-27 16:30:22 - [TEST_STEP][PASSED] - waitForPageLoad(20): Wait for page load successfully
+
+2022-10-27 16:30:23 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-27 16:30:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-10-27 16:30:23 - [MESSAGE][PASSED] - Current window maximized
+
+2022-10-27 16:30:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Automation Exercise/txt_Category"), 0): Object 'Object Repository/Page_Automation Exercise/txt_Category' is present
+
+2022-10-27 16:30:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-27 16:30:24 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise/txt_Category' is present
+
+2022-10-27 16:30:24 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise/btn_SignUpLogin")): Object: 'Object Repository/Page_Automation Exercise/btn_SignUpLogin' is clicked on
+
+2022-10-27 16:30:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise/btn_SignUpLogin' is clicked on
+
+2022-10-27 16:30:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_Automation Exercise - Signup  Login/txt_NewUserSignUp")): Object 'Object Repository/Page_Automation Exercise - Signup  Login/txt_NewUserSignUp' is visible
+
+2022-10-27 16:30:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise - Signup  Login/txt_NewUserSignUp' is visible
+
+2022-10-27 16:30:35 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup  Login/input_newUserSignUpName"), "Yasin"): Text 'Yasin' is set on object 'Object Repository/Page_Automation Exercise - Signup  Login/input_newUserSignUpName'
+
+2022-10-27 16:30:37 - [MESSAGE][PASSED] - Text 'Yasin' is set on object 'Object Repository/Page_Automation Exercise - Signup  Login/input_newUserSignUpName'
+
+2022-10-27 16:30:37 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup  Login/input_newUserSignUpEmail"), "yasin.deger@virgosol.com"): Text 'yasin.deger@virgosol.com' is set on object 'Object Repository/Page_Automation Exercise - Signup  Login/input_newUserSignUpEmail'
+
+2022-10-27 16:30:38 - [MESSAGE][PASSED] - Text 'yasin.deger@virgosol.com' is set on object 'Object Repository/Page_Automation Exercise - Signup  Login/input_newUserSignUpEmail'
+
+2022-10-27 16:30:38 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise - Signup  Login/button_Signup")): Object: 'Object Repository/Page_Automation Exercise - Signup  Login/button_Signup' is clicked on
+
+2022-10-27 16:30:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise - Signup  Login/button_Signup' is clicked on
+
+2022-10-27 16:30:45 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise - Signup/input_mrTitle")): Object: 'Object Repository/Page_Automation Exercise - Signup/input_mrTitle' is clicked on
+
+2022-10-27 16:30:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise - Signup/input_mrTitle' is clicked on
+
+2022-10-27 16:30:45 - [TEST_STEP][PASSED] - getText(findTestObject("Page_Automation Exercise - Signup/input__name"), STOP_ON_FAILURE): Text of object 'Object Repository/Page_Automation Exercise - Signup/input__name' is: ''
+
+2022-10-27 16:30:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Automation Exercise - Signup/input__name' is: ''
+
+2022-10-27 16:30:46 - [TEST_STEP][PASSED] - getText(findTestObject("Page_Automation Exercise - Signup/input__email"), STOP_ON_FAILURE): Text of object 'Object Repository/Page_Automation Exercise - Signup/input__email' is: ''
+
+2022-10-27 16:30:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Automation Exercise - Signup/input__email' is: ''
+
+2022-10-27 16:30:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Automation Exercise - Signup/input__password"), "tO3m0nBa5UU8Rk419DvAxw=="): Text ****** has been set on object 'Object Repository/Page_Automation Exercise - Signup/input__password'
+
+2022-10-27 16:30:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Automation Exercise - Signup/input__password'
+
+2022-10-27 16:30:48 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_Automation Exercise - Signup/select_Day"), "1", false): All options with value '1' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Day' 
+
+2022-10-27 16:30:49 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Day' 
+
+2022-10-27 16:30:49 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_Automation Exercise - Signup/select_Month"), "5", false): All options with value '5' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Month' 
+
+2022-10-27 16:30:50 - [MESSAGE][PASSED] - All options with value '5' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Month' 
+
+2022-10-27 16:30:50 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_Automation Exercise - Signup/select_Year"), "2021", false): All options with value '2021' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Year' 
+
+2022-10-27 16:30:51 - [MESSAGE][PASSED] - All options with value '2021' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_Year' 
+
+2022-10-27 16:30:51 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Page_Automation Exercise - Signup/input_newsLetterCheckbox"), 0): Scroll to object 'Object Repository/Page_Automation Exercise - Signup/input_newsLetterCheckbox' successfully
+
+2022-10-27 16:30:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-27 16:30:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Automation Exercise - Signup/input_newsLetterCheckbox' successfully
+
+2022-10-27 16:30:51 - [TEST_STEP][PASSED] - check(findTestObject("Page_Automation Exercise - Signup/input_newsLetterCheckbox")): Object 'Object Repository/Page_Automation Exercise - Signup/input_newsLetterCheckbox' is checked
+
+2022-10-27 16:30:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise - Signup/input_newsLetterCheckbox' is checked
+
+2022-10-27 16:30:52 - [TEST_STEP][PASSED] - check(findTestObject("Page_Automation Exercise - Signup/input_specialOfferCheckbox")): Object 'Object Repository/Page_Automation Exercise - Signup/input_specialOfferCheckbox' is checked
+
+2022-10-27 16:30:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise - Signup/input_specialOfferCheckbox' is checked
+
+2022-10-27 16:30:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Automation Exercise - Signup/input__first_name"), "Yasin"): Keys 'Yasin' sent to object: 'Object Repository/Page_Automation Exercise - Signup/input__first_name'
+
+2022-10-27 16:30:53 - [MESSAGE][PASSED] - Keys 'Yasin' sent to object: 'Object Repository/Page_Automation Exercise - Signup/input__first_name'
+
+2022-10-27 16:30:53 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input__last_name"), "Değer"): Text 'Değer' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__last_name'
+
+2022-10-27 16:30:54 - [MESSAGE][PASSED] - Text 'Değer' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__last_name'
+
+2022-10-27 16:30:54 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input_Company_company"), "virgosol"): Text 'virgosol' is set on object 'Object Repository/Page_Automation Exercise - Signup/input_Company_company'
+
+2022-10-27 16:30:55 - [MESSAGE][PASSED] - Text 'virgosol' is set on object 'Object Repository/Page_Automation Exercise - Signup/input_Company_company'
+
+2022-10-27 16:30:55 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input_address1"), "İzmir"): Text 'İzmir' is set on object 'Object Repository/Page_Automation Exercise - Signup/input_address1'
+
+2022-10-27 16:30:56 - [MESSAGE][PASSED] - Text 'İzmir' is set on object 'Object Repository/Page_Automation Exercise - Signup/input_address1'
+
+2022-10-27 16:30:56 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_Automation Exercise - Signup/select_UnitedStates"), "United States", false): All options with value 'United States' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_UnitedStates' 
+
+2022-10-27 16:30:57 - [MESSAGE][PASSED] - All options with value 'United States' are selected in object 'Object Repository/Page_Automation Exercise - Signup/select_UnitedStates' 
+
+2022-10-27 16:30:57 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input__state"), "CA"): Text 'CA' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__state'
+
+2022-10-27 16:30:58 - [MESSAGE][PASSED] - Text 'CA' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__state'
+
+2022-10-27 16:30:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input__city"), "Virginia"): Text 'Virginia' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__city'
+
+2022-10-27 16:30:59 - [MESSAGE][PASSED] - Text 'Virginia' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__city'
+
+2022-10-27 16:30:59 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input__zipcode"), "35000"): Text '35000' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__zipcode'
+
+2022-10-27 16:31:00 - [MESSAGE][PASSED] - Text '35000' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__zipcode'
+
+2022-10-27 16:31:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Automation Exercise - Signup/input__mobile_number"), "5308245631"): Text '5308245631' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__mobile_number'
+
+2022-10-27 16:31:01 - [MESSAGE][PASSED] - Text '5308245631' is set on object 'Object Repository/Page_Automation Exercise - Signup/input__mobile_number'
+
+2022-10-27 16:31:01 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Page_Automation Exercise - Signup/button_Create Account"), 0): Scroll to object 'Object Repository/Page_Automation Exercise - Signup/button_Create Account' successfully
+
+2022-10-27 16:31:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-27 16:31:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Automation Exercise - Signup/button_Create Account' successfully
+
+2022-10-27 16:31:02 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise - Signup/button_Create Account")): Object: 'Object Repository/Page_Automation Exercise - Signup/button_Create Account' is clicked on
+
+2022-10-27 16:31:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise - Signup/button_Create Account' is clicked on
+
+2022-10-27 16:31:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Automation Exercise - Account Created/txt_Account Created"), 0): Object 'Object Repository/Page_Automation Exercise - Account Created/txt_Account Created' is present
+
+2022-10-27 16:31:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-27 16:31:07 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise - Account Created/txt_Account Created' is present
+
+2022-10-27 16:31:07 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise - Account Created/btn_ContinueButton")): Object: 'Object Repository/Page_Automation Exercise - Account Created/btn_ContinueButton' is clicked on
+
+2022-10-27 16:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise - Account Created/btn_ContinueButton' is clicked on
+
+2022-10-27 16:31:13 - [TEST_STEP][PASSED] - loginName = getText(findTestObject("Page_Automation Exercise/a_Logged in as Name")): Text of object 'Object Repository/Page_Automation Exercise/a_Logged in as Name' is: 'Logged in as Yasin'
+
+2022-10-27 16:31:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Automation Exercise/a_Logged in as Name' is: 'Logged in as Yasin'
+
+2022-10-27 16:31:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Automation Exercise/a_Logged in as Name"), loginName): Actual text and expected text of test object 'Object Repository/Page_Automation Exercise/a_Logged in as Name' are matched.
+
+2022-10-27 16:31:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Automation Exercise/a_Logged in as Name' are matched.
+
+2022-10-27 16:31:15 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise/a_Delete Account")): Object: 'Object Repository/Page_Automation Exercise/a_Delete Account' is clicked on
+
+2022-10-27 16:31:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise/a_Delete Account' is clicked on
+
+2022-10-27 16:31:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Automation Exercise - Account Created/b_Account Deleted"), 0): Object 'Object Repository/Page_Automation Exercise - Account Created/b_Account Deleted' is present
+
+2022-10-27 16:31:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-27 16:31:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise - Account Created/b_Account Deleted' is present
+
+2022-10-27 16:31:18 - [TEST_STEP][PASSED] - click(findTestObject("Page_Automation Exercise - Account Created/btn_ContinueButton")): Object: 'Object Repository/Page_Automation Exercise - Account Created/btn_ContinueButton' is clicked on
+
+2022-10-27 16:31:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Exercise - Account Created/btn_ContinueButton' is clicked on
+
+2022-10-27 16:31:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-10-27 16:31:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-27 16:30:01 - [TEST_SUITE][PASSED] - TasksSuit: Test Cases/AutomationExercise/TC001 - Register User]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

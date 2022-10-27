@@ -49,6 +49,8 @@ WebUI.selectOptionByValue(findTestObject('Page_Automation Exercise - Signup/sele
 
 WebUI.selectOptionByValue(findTestObject('Page_Automation Exercise - Signup/select_Year'), '2021', false)
 
+WebUI.scrollToElement(findTestObject('Page_Automation Exercise - Signup/input_newsLetterCheckbox'), 0)
+
 WebUI.check(findTestObject('Page_Automation Exercise - Signup/input_newsLetterCheckbox'))
 
 WebUI.check(findTestObject('Page_Automation Exercise - Signup/input_specialOfferCheckbox'))
