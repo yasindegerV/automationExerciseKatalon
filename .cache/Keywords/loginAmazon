@@ -1,0 +1,33 @@
+{
+  "keywordFileContentHash": "1D74A27AA82DD4B8C3ACBCF5C654E852",
+  "keywordClasses": [
+    {
+      "name": "loginAmazon",
+      "keywordMethods": [
+        {
+          "name": "loginApp",
+          "parameters": []
+        },
+        {
+          "name": "tearDown",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

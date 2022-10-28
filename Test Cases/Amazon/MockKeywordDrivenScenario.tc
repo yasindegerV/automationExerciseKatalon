@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MockKeywordDrivenScenario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3f40413-cc09-4500-96fc-a115ecfd99af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab49a1ca-d792-4f57-ba1d-ec7823b4baae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2fb294d-fa41-4d52-b2fa-507ad7b5afc8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea3b496f-0564-4348-ae8c-cb75eccc6c10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab49a1ca-d792-4f57-ba1d-ec7823b4baae</id>
+      <masked>false</masked>
+      <name>mPro</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2fb294d-fa41-4d52-b2fa-507ad7b5afc8</id>
+      <masked>false</masked>
+      <name>mAir</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea3b496f-0564-4348-ae8c-cb75eccc6c10</id>
+      <masked>false</masked>
+      <name>kindle</name>
+   </variable>
+</TestCaseEntity>
