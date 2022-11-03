@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/CSVFileForDDT</source-url>
+   </source-info>
+   <taken-date>2022-11-03T11:34:54.459</taken-date>
+   <column-names>
+      <column-name>search_key</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Gull, lava",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Rainbow lory",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Macaw, red and blue",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Nubian bee-eater",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Weeper capuchin",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

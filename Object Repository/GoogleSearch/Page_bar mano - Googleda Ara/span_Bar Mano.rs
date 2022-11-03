@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bar Mano</name>
+   <tag></tag>
+   <elementGuidId>4b0ebca9-fca8-493f-a3fa-9811a16b3105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rcnt']/div/div/div/div[3]/div/div/div[2]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.yKMVIe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85f00cbb-b0bf-4f91-8e0d-ae17cea1ade8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>d84ed7f5-8293-4d83-921e-311a8dafb47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>37626fce-4ebd-4666-bf85-78b1532dc3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yKMVIe</value>
+      <webElementGuid>978f8a86-2091-4f51-91cf-36fdb2eac888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Barış Manço</value>
+      <webElementGuid>54b2cea0-6c03-4d8c-9cc0-f54d2f2e8c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rcnt&quot;)/div[@class=&quot;XqFnDf&quot;]/div[1]/div[@class=&quot;kp-wholepage-osrp&quot;]/div[@class=&quot;MjUjnf VM6qJ&quot;]/div[@class=&quot;hHq9Z&quot;]/div[1]/div[@class=&quot;gyEfO&quot;]/div[@class=&quot;wDYxhc NFQFxe viOShc LKPcQc&quot;]/div[@class=&quot;ZxoDOe yGdMVd&quot;]/div[@class=&quot;UFE1qd&quot;]/div[@class=&quot;PyJv1b gsmt PZPZlf&quot;]/span[@class=&quot;yKMVIe&quot;]</value>
+      <webElementGuid>b579c884-a376-4a3f-8f64-0711fe63a86e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rcnt']/div/div/div/div[3]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>cd96ea33-8991-4214-bb40-697eb9cce85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangi konuda görüş bildirdiğinizi seçin'])[1]/following::span[1]</value>
+      <webElementGuid>82b45981-4bba-42e6-ae76-44032f7eb386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Şarkıcı'])[1]/preceding::span[1]</value>
+      <webElementGuid>4c18e017-c51b-4052-b8ce-473df67be2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paylaşın'])[1]/preceding::span[4]</value>
+      <webElementGuid>c536f6a1-abf1-482b-b66d-e57fa56d6810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Barış Manço']/parent::*</value>
+      <webElementGuid>89be4d5c-70de-429f-9568-4234569ceb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>67842313-1945-479a-b0f3-ee30efd19564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Barış Manço' or . = 'Barış Manço')]</value>
+      <webElementGuid>a05e9f61-8adc-4fbe-8f03-2cc4de9efbe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

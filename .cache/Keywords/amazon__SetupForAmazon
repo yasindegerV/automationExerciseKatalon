@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C135BCE5FBB3524775EE281531DDC075",
+  "keywordClasses": [
+    {
+      "name": "amazon.SetupForAmazon",
+      "keywordMethods": [
+        {
+          "name": "loginApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

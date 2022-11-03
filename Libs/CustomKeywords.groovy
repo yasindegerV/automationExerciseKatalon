@@ -15,8 +15,8 @@ import com.applitools.eyes.RectangleSize
 
 
 
-def static "SetupForAmazon.loginApp"() {
-    (new SetupForAmazon()).loginApp()
+def static "amazon.SetupForAmazon.loginApp"() {
+    (new amazon.SetupForAmazon()).loginApp()
 }
 
 
