@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-AmazonKeywordDriven,,,,2022-11-01 12:42:16,2022-11-01 12:42:25,9.040s,FAILED
-,,,,,,,
-Test Cases/Amazon/MockKeywordDrivenScenario,,,,2022-11-01 12:42:23,2022-11-01 12:42:25,1.885s,FAILED
-openBrowser(url),,,,2022-11-01 12:42:23,2022-11-01 12:42:25,1.786s,FAILED

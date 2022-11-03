@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.url)
 
-CustomKeywords.'SetupForAmazon.loginApp'()
+CustomKeywords.'amazon.SetupForAmazon.loginApp'()
 
 for (def index : (0..2)) {
     if (index == 0) {
